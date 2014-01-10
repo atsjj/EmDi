@@ -1,7 +1,8 @@
 # Ember Display
+
 Ember WebRTC Screen Sharing using Firebase.
 
-Built with Ember App Kit [![Build Status](https://travis-ci.org/stefanpenner/ember-app-kit.png?branch=master)](https://travis-ci.org/stefanpenner/ember-app-kit)
+Built with Ember App Kit
 
 ## License
 
